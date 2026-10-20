@@ -1,0 +1,37 @@
+id,fecha,tipo,municipio,con_quien,tipo_actor,mesa,resultado,siguiente_paso,responsable,ejemplo
+E002,2026-09-07,Reunión con organismo,Huamuxtitlán,Cámara de comercio local,,,Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E001,2026-09-11,Reunión con organismo,Chilpancingo de los Bravo,Organismo cúpula regional,,Logística y conectividad,Sin acuerdo,Reintentar contacto en un mes,[Responsable],si
+E003,2026-09-11,Reunión con organismo,Tlapa de Comonfort,Cámara de comercio local,,Seguridad para invertir (FICOSEGro),Sin acuerdo,Reintentar contacto en un mes,[Responsable],si
+E004,2026-09-14,Visita a empresa,Teloloapan,PyME agroindustrial,,Seguridad para invertir (FICOSEGro),Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
+E006,2026-09-14,Encuentro con actor público,Iguala de la Independencia,Delegación federal,Dependencias federales,Vocaciones regionales,Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
+E005,2026-09-18,Mesa CONDESA,Tlapa de Comonfort,Mesa de trabajo,,PyMEs y cadenas de valor,Acuerdo,Integrar acuerdo a la minuta,[Responsable],si
+E007,2026-09-18,Visita a empresa,Ayutla de los Libres,PyME de manufactura,,PyMEs y cadenas de valor,Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
+E010,2026-09-22,Visita a empresa,Pungarabato,Empresa de logística,,Financiamiento al desarrollo (BANDEGRO),Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E009,2026-09-23,Reunión con organismo,Chilpancingo de los Bravo,Organismo cúpula regional,,,Adhesión,Registrar en padrón de Guerrero Impulsa,[Responsable],si
+E008,2026-09-25,Mesa CONDESA,Taxco de Alarcón,Mesa de trabajo,,PyMEs y cadenas de valor,Acuerdo,Integrar acuerdo a la minuta,[Responsable],si
+E011,2026-09-25,Mesa CONDESA,Iguala de la Independencia,Mesa de trabajo,,PyMEs y cadenas de valor,Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
+E012,2026-09-28,Visita a empresa,Zihuatanejo de Azueta,Taller de joyería,,Financiamiento al desarrollo (BANDEGRO),Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
+E014,2026-09-30,Visita a empresa,Acapulco de Juárez,Empresa turística,,Energía para PyMEs,Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E015,2026-09-30,Mesa CONDESA,Huamuxtitlán,Mesa de trabajo,,Logística y conectividad,Acuerdo,Integrar acuerdo a la minuta,[Responsable],si
+E013,2026-10-01,Reunión con organismo,Tlapa de Comonfort,Asociación hotelera,,Energía para PyMEs,Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E016,2026-10-01,Visita a empresa,Acapulco de Juárez,PyME agroindustrial,,Financiamiento al desarrollo (BANDEGRO),Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
+E019,2026-10-05,Reunión con organismo,Iguala de la Independencia,Organismo cúpula regional,,,Adhesión,Registrar en padrón de Guerrero Impulsa,[Responsable],si
+E022,2026-10-05,Reunión con organismo,Chilpancingo de los Bravo,Asociación hotelera,,Seguridad para invertir (FICOSEGro),Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E021,2026-10-06,Encuentro con actor público,Iguala de la Independencia,Delegación federal,Dependencias federales,Energía para PyMEs,Adhesión,Registrar en padrón de Guerrero Impulsa,[Responsable],si
+E017,2026-10-07,Reunión con organismo,Taxco de Alarcón,Asociación de restauranteros,,Logística y conectividad,Adhesión,Registrar en padrón de Guerrero Impulsa,[Responsable],si
+E018,2026-10-07,Reunión con organismo,Acapulco de Juárez,Organismo cúpula regional,,Logística y conectividad,Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E020,2026-10-08,Reunión con organismo,Tlapa de Comonfort,Colegio de profesionistas,,Financiamiento al desarrollo (BANDEGRO),Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E023,2026-10-12,Visita a empresa,Huamuxtitlán,PyME de manufactura,,Financiamiento al desarrollo (BANDEGRO),Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E026,2026-10-12,Visita a empresa,Tlapa de Comonfort,PyME agroindustrial,,,Adhesión,Registrar en padrón de Guerrero Impulsa,[Responsable],si
+E027,2026-10-14,Reunión con organismo,Chilpancingo de los Bravo,Organismo cúpula regional,,Vocaciones regionales,Sin acuerdo,Reintentar contacto en un mes,[Responsable],si
+E025,2026-10-15,Evento,Acapulco de Juárez,Taller para PyMEs,,,Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
+E024,2026-10-16,Reunión con organismo,Arcelia,Asociación de restauranteros,,Energía para PyMEs,Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E028,2026-10-16,Mesa CONDESA,Acapulco de Juárez,Mesa de trabajo,,PyMEs y cadenas de valor,Acuerdo,Integrar acuerdo a la minuta,[Responsable],si
+E029,2026-10-19,Reunión con organismo,Taxco de Alarcón,Colegio de profesionistas,,Logística y conectividad,Sin acuerdo,Reintentar contacto en un mes,[Responsable],si
+E032,2026-10-19,Reunión con organismo,Acapulco de Juárez,Asociación de restauranteros,,Financiamiento al desarrollo (BANDEGRO),Adhesión,Registrar en padrón de Guerrero Impulsa,[Responsable],si
+E033,2026-10-19,Visita a empresa,Chilpancingo de los Bravo,Empresa turística,,Energía para PyMEs,Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E036,2026-10-19,Mesa CONDESA,Petatlán,Mesa de trabajo,,PyMEs y cadenas de valor,Seguimiento,Enviar ficha de la propuesta,[Responsable],si
+E030,2026-10-20,Mesa CONDESA,Chilpancingo de los Bravo,Mesa de trabajo,,Vocaciones regionales,Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
+E031,2026-10-20,Reunión con organismo,Coyuca de Catalán,Organismo cúpula regional,,,Adhesión,Registrar en padrón de Guerrero Impulsa,[Responsable],si
+E034,2026-10-20,Mesa CONDESA,Zihuatanejo de Azueta,Mesa de trabajo,,Seguridad para invertir (FICOSEGro),Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
+E035,2026-10-20,Encuentro con actor público,Zihuatanejo de Azueta,Ayuntamiento,Ayuntamientos,,Compromiso,Dar seguimiento al compromiso en la siguiente sesión,[Responsable],si
